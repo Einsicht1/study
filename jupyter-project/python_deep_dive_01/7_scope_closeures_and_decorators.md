@@ -137,6 +137,32 @@ world
 
 
 ## Closures
+<img width="1655" alt="asdf" src="https://user-images.githubusercontent.com/60768642/156152511-ac818eb8-484f-43bd-bd9c-8ee34e880e42.png">
+
+> inner encloses its free variable
+ 
+<img width="1543" alt="스크린샷 2022-03-01 오후 7 34 04" src="https://user-images.githubusercontent.com/60768642/156153280-5746e411-d407-435b-9de1-10ea0613c824.png">
+
+<img width="1221" alt="스크린샷 2022-03-01 오후 7 37 56" src="https://user-images.githubusercontent.com/60768642/156153956-e3673cbf-6a0c-4976-832c-7f3c09eac665.png">
+
+<img width="1219" alt="스크린샷 2022-03-01 오후 7 40 32" src="https://user-images.githubusercontent.com/60768642/156154336-d27ca427-b840-44ab-8045-f73f97bae587.png">
+
+<img width="1197" alt="스크린샷 2022-03-01 오후 7 50 10" src="https://user-images.githubusercontent.com/60768642/156155753-5997e10b-bae6-4eda-a5a0-d4d5d180b009.png">
+
+<img width="1085" alt="스크린샷 2022-03-01 오후 7 55 47" src="https://user-images.githubusercontent.com/60768642/156156582-44ba65aa-ffa2-4821-a1e5-0f33a0bca6dc.png">
+
+<img width="1167" alt="스크린샷 2022-03-01 오후 7 55 56" src="https://user-images.githubusercontent.com/60768642/156156604-9a42a743-a37c-4b5b-b076-7866ca1a1977.png">
+
+<img width="1144" alt="스크린샷 2022-03-01 오후 7 56 07" src="https://user-images.githubusercontent.com/60768642/156156634-2a96c120-4dfb-48f1-abbc-d3b40974ca9a.png">
+
+<img width="937" alt="스크린샷 2022-03-01 오후 8 04 10" src="https://user-images.githubusercontent.com/60768642/156157890-fa70588f-5e9f-4860-a337-b8d8c89cdd25.png">
+
+<img width="1183" alt="스크린샷 2022-03-01 오후 8 04 18" src="https://user-images.githubusercontent.com/60768642/156157911-060b1226-6f7d-43c1-baca-d35e931d8088.png">
+
+<img width="1027" alt="스크린샷 2022-03-01 오후 8 04 25" src="https://user-images.githubusercontent.com/60768642/156157924-59bbd11c-2609-41c5-9b49-62a3c04ac72f.png">
+
+
+
 ## Closure Applications
 ## Decorators
 ## Decorator Application
